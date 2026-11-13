@@ -45,6 +45,26 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/redwood/proprietary/vendor/etc/audio/sku_yupik/sound_trigger_mixer_paths_yupikidp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/sound_trigger_mixer_paths_yupikidp.xml \
     vendor/xiaomi/redwood/proprietary/vendor/etc/audio/sku_yupik/sound_trigger_platform_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/sound_trigger_platform_info.xml \
     vendor/xiaomi/redwood/proprietary/vendor/etc/audio_tuning_mixer.txt:$(TARGET_COPY_OUT_VENDOR)/etc/audio_tuning_mixer.txt \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/102_SummerDay.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/102_SummerDay.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/103_Fantasy.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/103_Fantasy.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/104_Meet.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/104_Meet.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/105_WindSing.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/105_WindSing.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/106_Lost.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/106_Lost.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/107_Central.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/107_Central.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/108_NorthernEurope.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/108_NorthernEurope.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/109_Rome.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/109_Rome.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/110_BlackGold.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/110_BlackGold.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/111_GreenOrange.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/111_GreenOrange.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/112_CyberPunk.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/112_CyberPunk.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/113_BlackIce.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/113_BlackIce.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/121_Bleach.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/121_Bleach.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/122_Thriller.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/122_Thriller.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/123_TealOrange.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/123_TealOrange.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/124_JapaneseStyle.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/124_JapaneseStyle.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/125_Latin.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/125_Latin.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/126_Fantasy2.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/126_Fantasy2.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/127_Creamy.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/127_Creamy.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/128_Sepia.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/128_Sepia.png \
     vendor/xiaomi/redwood/proprietary/vendor/etc/camera/3rdpartconfigure.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/3rdpartconfigure.txt \
     vendor/xiaomi/redwood/proprietary/vendor/etc/camera/GpuKernelRepo.pb:$(TARGET_COPY_OUT_VENDOR)/etc/camera/GpuKernelRepo.pb \
     vendor/xiaomi/redwood/proprietary/vendor/etc/camera/LDC_FPC_TUNING_DATA.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/LDC_FPC_TUNING_DATA.bin \
@@ -59,6 +79,18 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/redwood/proprietary/vendor/etc/camera/arcsat_2sat_first.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/arcsat_2sat_first.bin \
     vendor/xiaomi/redwood/proprietary/vendor/etc/camera/arcsat_2sat_second.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/arcsat_2sat_second.bin \
     vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beautyLens/dualcam_beauty_effect_pre_config.json:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beautyLens/dualcam_beauty_effect_pre_config.json \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beautyLens/filter_foodU.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beautyLens/filter_foodU.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beautyLens/filter_foodV.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beautyLens/filter_foodV.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beautyLens/filter_foodY.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beautyLens/filter_foodY.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beautyLens/filter_objectU.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beautyLens/filter_objectU.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beautyLens/filter_objectV.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beautyLens/filter_objectV.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beautyLens/filter_objectY.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beautyLens/filter_objectY.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beautyLens/filter_petU.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beautyLens/filter_petU.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beautyLens/filter_petV.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beautyLens/filter_petV.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beautyLens/filter_petY.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beautyLens/filter_petY.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beautyLens/filter_portraitU.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beautyLens/filter_portraitU.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beautyLens/filter_portraitV.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beautyLens/filter_portraitV.png \
+    vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beautyLens/filter_portraitY.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beautyLens/filter_portraitY.png \
     vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beauty_style_blue.cng:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beauty_style_blue.cng \
     vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beauty_style_masculine.cng:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beauty_style_masculine.cng \
     vendor/xiaomi/redwood/proprietary/vendor/etc/camera/beauty_style_neutral.cng:$(TARGET_COPY_OUT_VENDOR)/etc/camera/beauty_style_neutral.cng \
@@ -1165,8 +1197,8 @@ PRODUCT_PACKAGES += \
     IWlanService \
     SoterService \
     TimeService \
-    HotwordEnrollmentOKGoogleHEXAGON_WIDEBAND \
     HotwordEnrollmentXGoogleHEXAGON_WIDEBAND \
+    HotwordEnrollmentYGoogleHEXAGON_WIDEBAND \
     QtiTelephonyService \
     WfdService \
     dpmserviceapp \
