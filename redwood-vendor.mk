@@ -41,7 +41,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/redwood/proprietary/vendor/etc/audio/sku_yupik/audio_platform_info_yupikidp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/audio_platform_info_yupikidp.xml \
     vendor/xiaomi/redwood/proprietary/vendor/etc/audio/sku_yupik/mixer_paths_overlay_dynamic.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/mixer_paths_overlay_dynamic.xml \
     vendor/xiaomi/redwood/proprietary/vendor/etc/audio/sku_yupik/mixer_paths_overlay_static.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/mixer_paths_overlay_static.xml \
-    vendor/xiaomi/redwood/proprietary/vendor/etc/audio/sku_yupik/mixer_paths_yupikidp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/mixer_paths_yupikidp.xml \
     vendor/xiaomi/redwood/proprietary/vendor/etc/audio/sku_yupik/sound_trigger_mixer_paths_yupikidp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/sound_trigger_mixer_paths_yupikidp.xml \
     vendor/xiaomi/redwood/proprietary/vendor/etc/audio/sku_yupik/sound_trigger_platform_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_yupik/sound_trigger_platform_info.xml \
     vendor/xiaomi/redwood/proprietary/vendor/etc/audio_tuning_mixer.txt:$(TARGET_COPY_OUT_VENDOR)/etc/audio_tuning_mixer.txt \
@@ -407,7 +406,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/redwood/proprietary/vendor/firmware/a660_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a660_zap.elf \
     vendor/xiaomi/redwood/proprietary/vendor/firmware/a660_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a660_zap.mdt \
     vendor/xiaomi/redwood/proprietary/vendor/firmware/aw8697_haptic.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_haptic.bin \
-    vendor/xiaomi/redwood/proprietary/vendor/firmware/aw882xx_acf.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw882xx_acf.bin \
     vendor/xiaomi/redwood/proprietary/vendor/firmware/focaltech_ts_fw_m20.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ts_fw_m20.bin \
     vendor/xiaomi/redwood/proprietary/vendor/firmware/goodix_cfg_group_m20.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_cfg_group_m20.bin \
     vendor/xiaomi/redwood/proprietary/vendor/firmware/goodix_firmware_m20.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_firmware_m20.bin \
